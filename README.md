@@ -39,8 +39,9 @@ El frontend del proyecto ha sido desarrollado utilizando **React**, **Vite** y *
 **1. Clonar el repositorio del proyecto:**
 
    ```bash
-   git clone https://github.com/tu-usuario/help-people-web.git
-   cd help-people-web
+   git clone https://github.com/njsanecha/help_people_web.git
+   cd help_people_web
+   cd help_people
    ```
 
 **2. Instalar las dependencias del proyecto:**
